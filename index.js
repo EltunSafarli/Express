@@ -10,7 +10,7 @@ const employees = () =>{
 
 
 
-app.get('/', (reqdsf, res) => {
+app.get('/', (req, res) => {
     res.send("salam");
 });
 
